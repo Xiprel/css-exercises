@@ -1,0 +1,17 @@
+.para {
+    background-color: rgb(246, 84, 84);
+}
+
+#n2 {
+    color: blue;
+    font-size: xx-large;
+}
+
+.adjust-font-size {
+    font-size: 36px;
+}
+
+#n4  {
+    font-weight: bolder;
+    background-color: greenyellow;
+}
